@@ -7,7 +7,6 @@ GoogleNews-vectors-negative300.bin
 GoogleNews-vectors-negative300.bin.zip
 
 # Word2Vec & Gensim heavy models
-fine-tuning-word2vec/forum_posts_word2vec_gensim.model
 fine-tuning-word2vec/forum_posts_word2vec_gensim.model.syn1neg.npy
 fine-tuning-word2vec/forum_posts_word2vec_gensim.model.wv.vectors.npy
 fine-tuning-word2vec/forum_posts_word2vec.model
