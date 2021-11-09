@@ -1,6 +1,11 @@
+# Extensions
+*.csv
+*.zip
+
 # Dataset 
+Forums.csv
+ForumTopics.csv
 ForumMessages.csv
-ForumMessages.csv.zip
 
 # GoogleNews embeddings
 GoogleNews-vectors-negative300.bin
